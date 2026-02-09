@@ -1,0 +1,11 @@
+# Arduino
+*.bin
+*.elf
+*.map
+
+# macOS
+.DS_Store
+
+# IDE / tooling
+.theia/
+.vscode/
